@@ -1,0 +1,1 @@
+Bottaro e Carlin. Alcuni esercizi risolti in Ada e Go: https://github.com/BottCode/Concurrent-Programming-Exercises-in-Ada-and-Go
